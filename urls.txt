@@ -11,7 +11,6 @@ https://images.unsplash.com/photo-1701772166249-ee1a088db6ff?crop=entropy&cs=srg
 https://images.unsplash.com/photo-1659560817017-730e99c79c22?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NDQ3MTB8MHwxfHNlYXJjaHwxM3x8Y2FweWJhcmF8ZW58MHx8fHwxNzIzOTM3NTgwfDA&ixlib=rb-4.0.3&q=85
 https://images.unsplash.com/photo-1721960916574-8763b8f4b669?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NDQ3MTB8MHwxfHNlYXJjaHwxNHx8Y2FweWJhcmF8ZW58MHx8fHwxNzIzOTM3NTgwfDA&ixlib=rb-4.0.3&q=85
 https://images.unsplash.com/photo-1712743586710-b344aad5002d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NDQ3MTB8MHwxfHNlYXJjaHwxNXx8Y2FweWJhcmF8ZW58MHx8fHwxNzIzOTM3NTgwfDA&ixlib=rb-4.0.3&q=85
-https://images.unsplash.com/photo-1714622343645-6f947ba9f08d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NDQ3MTB8MHwxfHNlYXJjaHwxNnx8Y2FweWJhcmF8ZW58MHx8fHwxNzIzOTM3NTgwfDA&ixlib=rb-4.0.3&q=85
 https://images.unsplash.com/photo-1701772164858-c86acfc69b6f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NDQ3MTB8MHwxfHNlYXJjaHwxN3x8Y2FweWJhcmF8ZW58MHx8fHwxNzIzOTM3NTgwfDA&ixlib=rb-4.0.3&q=85
 https://images.unsplash.com/photo-1719433907107-0abbfec1dfa4?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NDQ3MTB8MHwxfHNlYXJjaHwxOHx8Y2FweWJhcmF8ZW58MHx8fHwxNzIzOTM3NTgwfDA&ixlib=rb-4.0.3&q=85
 https://images.unsplash.com/photo-1680994354810-aa25bbc69976?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NDQ3MTB8MHwxfHNlYXJjaHwxOXx8Y2FweWJhcmF8ZW58MHx8fHwxNzIzOTM3NTgwfDA&ixlib=rb-4.0.3&q=85
@@ -23,7 +22,6 @@ https://images.unsplash.com/photo-1712743586807-93f857693f3f?crop=entropy&cs=srg
 https://images.unsplash.com/photo-1577049205905-e4d91edc0a00?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NDQ3MTB8MHwxfHNlYXJjaHwyOHx8Y2FweWJhcmF8ZW58MHx8fHwxNzIzOTM3NTgwfDA&ixlib=rb-4.0.3&q=85
 https://images.unsplash.com/photo-1577049207999-5a9745cdecb6?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NDQ3MTB8MHwxfHNlYXJjaHwyOXx8Y2FweWJhcmF8ZW58MHx8fHwxNzIzOTM3NTgwfDA&ixlib=rb-4.0.3&q=85
 https://images.unsplash.com/photo-1680994355174-db66dcd397ab?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NDQ3MTB8MHwxfHNlYXJjaHwzMHx8Y2FweWJhcmF8ZW58MHx8fHwxNzIzOTM3NTgwfDA&ixlib=rb-4.0.3&q=85
-https://images.unsplash.com/photo-1656155033236-37af3a7d0326?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NDQ3MTB8MHwxfHNlYXJjaHwzMnx8Y2FweWJhcmF8ZW58MHx8fHwxNzIzOTM3NTgxfDA&ixlib=rb-4.0.3&q=85
 https://images.unsplash.com/photo-1701772164634-715e206588b3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NDQ3MTB8MHwxfHNlYXJjaHwzM3x8Y2FweWJhcmF8ZW58MHx8fHwxNzIzOTM3NTgxfDA&ixlib=rb-4.0.3&q=85
 https://images.unsplash.com/photo-1701772165288-39c9ef3775c0?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NDQ3MTB8MHwxfHNlYXJjaHwzNHx8Y2FweWJhcmF8ZW58MHx8fHwxNzIzOTM3NTgxfDA&ixlib=rb-4.0.3&q=85
 https://images.unsplash.com/photo-1716064554838-f9ae49db992b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NDQ3MTB8MHwxfHNlYXJjaHwzNXx8Y2FweWJhcmF8ZW58MHx8fHwxNzIzOTM3NTgxfDA&ixlib=rb-4.0.3&q=85
@@ -47,3 +45,12 @@ https://www.pbs.org/wnet/nature/files/2023/07/jaime-dantas-WROg3LroIIU-unsplash-
 https://www.pbs.org/wnet/nature/files/2023/07/pexels-magali-guimara%CC%83es-5479610-scaled-e1689259850990-1280x720.jpg
 https://www.pbs.org/wnet/nature/files/2023/07/pexels-rafael-rodrigues-11170943-scaled-e1689259667221-1280x720.jpg
 https://cdn.britannica.com/99/138899-050-BC3398E2/Capybara.jpg
+https://www.allthingswild.co.uk/wp-content/uploads/2022/01/capy-2-2.jpg
+https://cdn.britannica.com/77/191677-050-3CBF2834/Capybara.jpg
+https://www.zoopraha.cz/images/Aktualne/Pohledem_reditele/IMG_7554.jpg
+https://www.awsfzoo.com/media/Potato-1024x857.png
+https://64.media.tumblr.com/800eef4a65d2e466e4f0b260dd2f61b6/de3a8c56238ad01c-c2/s2048x3072/6c173e9322028572ac18b4ba3d68ded14a5cc608.pnj
+https://64.media.tumblr.com/f046bbe0d4c0f9c12645b412238d2178/80d982ac26663602-f1/s2048x3072/8476447a96ecdf2d7e6cc62c7b73e43564b2df13.pnj
+https://64.media.tumblr.com/72fd442a01b708ebda1162e0e0de3a4d/7b26ede7c4394a6c-f4/s1280x1920/752361f3075301b62125efab6cc9525855c00768.jpg
+https://64.media.tumblr.com/30585eb36c8c352b24644ceeff2c5938/849c44af30a822ec-9e/s1280x1920/e270bf61a5b9c649cd3595f335b6e1bd21e328b7.jpg
+https://64.media.tumblr.com/9c3a7a50e6fe8526bc106f3cf44d318f/8f15a40f0c625250-c6/s1280x1920/eecbfa543ddc97eac48b626114585b267ddd57b0.jpg
